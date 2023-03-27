@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="login_username" type="id" />
+    <item name="login_password" type="id" />
+    <item name="login_button" type="id" />
+    <item name="nav_logout" type="id" />
+    <item name="nav_home" type="id" />
+    <item name="nav_settings" type="id" />
+    <item name="nav_share" type="id" />
+    <item name="nav_shares" type="id" />
+    <item name="uploadEmail" type="id" />
+    <item name="uploadImage" type="id" />
+    <item name="uploadName" type="id" />
+    <item name="uploadNames" type="id" />
+    <item name="navEmail" type="id" />
+    <item name="navName" type="id" />
+    <item name="navImage" type="id" />
+    <item name="nav_about" type="id" />
+</resources>
